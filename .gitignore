@@ -1,2 +1,5 @@
 # venv files
 venv/
+
+# Ignore .pyc files
+*.pyc

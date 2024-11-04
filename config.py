@@ -7,4 +7,5 @@ model_config = {
     "norm_eps": 1e-5,
     "max_batch_size_kv": 32,
     "max_seq_length_kv": 2048,
+    "multiple_of": 256
 }
